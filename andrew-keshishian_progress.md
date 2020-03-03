@@ -13,7 +13,8 @@ jupyter:
 ---
 
 Week 8:
-- Begining preproccessing of data
+- Begining preproccessing of data 
+
 - Converting numeric strings to respective floats or integers
 - Filling missing data in a meaningful way
 - Conversion of catagorical data to quantitative values
@@ -23,7 +24,16 @@ Week 8:
 
 
 Week 9:
+- Comleted preprocessing of a real world dataset
+- Will begin creating a synthetic dataset for testing
 
-```python
+    Want poor classifiers to perform poorly on this dataset, but good classifiers (like NMF) to perform well
+- Experimenting with poor classifiers: logistic regressions and linear regression and good classifiers: NMF and random forest
+- Synthetic data will need:
 
-```
+    a lot of features: many unimportant features and only a few important features
+    
+    way more dimensions than samples
+
+
+
