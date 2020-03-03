@@ -13,3 +13,7 @@ Sunday 1 - 4pm:
 - Ran our NMF implementation, along with skikit-learn's NMF and PCA to reduce dimensionality of toy dataset from 6 - 2 dimensions (7 original dimensions), with 50 iterations each.
 - Within these iterations, the dataset's dimensions reduced and transformed values were fetched. These transformed values were then clustered on w/ scikit-learn K-Means.
 - Cluster classifications were compared with true labels of the dataset for each dimension count by accuracy, and averaged over the iterations. These accuracy scores were plotted side by side.
+
+Monday 4 - 6pm:
+- Encapsulated NMF function into a class, and created attributes and methods to match usage of scikit-learn's dimensionality reduction methods.
+- Normalized basis vectors before updates began, and after each multiplicative update.
