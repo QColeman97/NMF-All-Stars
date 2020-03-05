@@ -18,3 +18,12 @@
 #### Mon -> Group Meeting @ Library
     - Was able to merge key functions from respective group members code which allowed me to debug my previously written soluions with our new model for NMF
     - Discussed pre proccessing our dataset
+    
+## Project Log 2
+### Week 9
+
+#### Wed -> Group Meeting @ Library
+    - Further discussed our changing implementation of our nmf algorithm. Adjusted recusive approach
+    - Added code in our notebooks to compare mean_squared_error of sklearn's nmf and our nmf at aproximating the original input matrix
+    - Added code to compare correlation at different dimension reductions between our NMF and SKlearn's nmf
+    - TODO need to refactor comparing error code
