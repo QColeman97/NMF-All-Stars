@@ -17,3 +17,17 @@ Sunday 1 - 4pm:
 Monday 4 - 6pm:
 - Encapsulated NMF function into a class, and created attributes and methods to match usage of scikit-learn's dimensionality reduction methods.
 - Normalized basis vectors before updates began, and after each multiplicative update.
+
+Tuesday 2:30 - 3pm:
+- Discussed, and pivoted project analysis goal from considering performance of NMF, but instead comparing performance of NMF to another dimensionality reduction method: PCA. Relayed the pivot to the team.
+
+Friday 1 - 2pm:
+- Brainstormed about and assisted Andrew with how to make a synthetic dataset with sckikit-learn so that a weak classifier performs poorly with it.
+
+#### Week 10 (Mar. 8 - 14)
+
+Thursday 9pm - 1am:
+- Revised experimentation with NMF: Instead of clustering the dataset at each dimensionality reduction, we now predict; this uses the dataset labels more effectively. As part of the pivot, we no longer compare our NMF to sk-learn's NMF but instead compare our NMF to sk-learn's PCA (a different method)
+
+Friday 12:30 - :
+- Made a quick performance evaluation on our NMF, to make sure it works before we start comparing it to PCA.
