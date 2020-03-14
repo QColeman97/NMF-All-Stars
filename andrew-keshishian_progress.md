@@ -35,5 +35,7 @@ Week 9:
     
     way more dimensions than samples
 
+- synthetic data has been created and tests of NMF vs linear regression have been run. Results are not as expected and debugging is in progress. 
+
 
 
