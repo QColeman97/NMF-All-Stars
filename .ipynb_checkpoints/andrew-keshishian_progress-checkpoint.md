@@ -38,4 +38,6 @@ Week 9:
 - synthetic data has been created and tests of NMF vs linear regression have been run. Results are not as expected and debugging is in progress. 
 
 
+Week 10:
+- tests of NMF vs logistic regression have been run and support expected results
 
