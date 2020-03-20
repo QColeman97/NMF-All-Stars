@@ -27,3 +27,28 @@
     - Added code in our notebooks to compare mean_squared_error of sklearn's nmf and our nmf at aproximating the original input matrix
     - Added code to compare correlation at different dimension reductions between our NMF and SKlearn's nmf
     - TODO need to refactor comparing error code
+    
+#### Thurs -> Lab Meeting @ 466 Lab
+    - Added graphing code for mean squared error and comparing pca to nmf
+    - Talked about our different segments of the project and how to group together. 
+    - Analysis of recursive approach to nmf
+        - not working.. probably won't include
+        
+#### Sat -> Individual Work @ Home
+    - Started code refactor
+    - Adding labels and details to code.
+    - Commenting for readability
+    
+## Project Log 3
+### Week 10
+
+#### Tues -> Individual Work @ Home
+    - Added written analysis to code segments
+
+### Week 11 (Finals Week)
+
+#### Thur -> Individual Work @ Home
+    - Comparison to PCA update
+    - Refactored code to work with new object NMF approach
+    - imported code into final notebook
+    - finalized experimentation section of report

@@ -38,3 +38,17 @@
     - Started code refactor
     - Adding labels and details to code.
     - Commenting for readability
+    
+## Project Log 3
+### Week 10
+
+#### Tues -> Individual Work @ Home
+    - Added written analysis to code segments
+
+### Week 11 (Finals Week)
+
+#### Thur -> Individual Work @ Home
+    - Comparison to PCA update
+    - Refactored code to work with new object NMF approach
+    - imported code into final notebook
+    - finalized experimentation section of report
