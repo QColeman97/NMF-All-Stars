@@ -7,6 +7,7 @@ https://docs.google.com/presentation/d/1LuRnMnstCDDEiExSbgIZCth6sTauXu8fy5yNxwqO
 
 ## Individual Video Links
 ### Griffin 
+https://youtu.be/-PREkt0e1bw
 
 ### Andrew
 https://youtu.be/ZYjI4mo0Pgg
