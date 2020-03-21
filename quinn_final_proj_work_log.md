@@ -29,5 +29,16 @@ Friday 1 - 2pm:
 Thursday 9pm - 1am:
 - Revised experimentation with NMF: Instead of clustering the dataset at each dimensionality reduction, we now predict; this uses the dataset labels more effectively. As part of the pivot, we no longer compare our NMF to sk-learn's NMF but instead compare our NMF to sk-learn's PCA (a different method)
 
-Friday 12:30 - :
+Friday 12:30 - 2pm:
 - Made a quick performance evaluation on our NMF, to make sure it works before we start comparing it to PCA.
+
+#### Week 11 (Mar. 15 - 21)
+
+Tuesday 8pm - 1am:
+- Made the background section for the final notebook. Revised classifier experiment to use logistic regression, and to use a real dataset so that we can ensure there are important features. Results of the synthetic dataset weren't delivering like we thought.
+
+Thursday 12 - 3pm:
+- Revised classifer experiment by creating a wines dataset (more naturally non-negative and quantitative), instead of titanic and finally performance seemed to improve as dataset dimensionality lowered.
+
+Friday 10 - 12pm:
+- Made a couple grammar edits to final notebook. Made final presentation, recorded video and tried to make a joke in it.
