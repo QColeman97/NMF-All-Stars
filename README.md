@@ -6,7 +6,11 @@ https://docs.google.com/presentation/d/1Tz78BWCJ3avmDIiPwfXqPqLqzxUvlXEQu1CoBILi
 [NMF_final Python Notebook](https://github.com/Anderson-Lab/final-project-nmf_allstars/blob/master/NMF_final.ipynb)
 
 ## Final Slides -> google link
+### Griffin
 https://docs.google.com/presentation/d/1LuRnMnstCDDEiExSbgIZCth6sTauXu8fy5yNxwqO37Q/edit?usp=sharing
+
+### Quinn
+https://docs.google.com/presentation/d/1FFjnLTJrMZITSpn5WqlheBTSv_pRB4TpCS5g7JvjHK4/edit?usp=sharing
 
 ## Individual Video Links
 ### Griffin 
