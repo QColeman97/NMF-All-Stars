@@ -1,9 +1,9 @@
 # final-project-nmf_allstars
+## Final Report Below!
+[NMF_Final Jupyter Notebook](https://github.com/QColeman97/NMF-All-Stars/blob/master/NMF_final.ipynb)
+
 ## Pitch Slides -> google link
 https://docs.google.com/presentation/d/1Tz78BWCJ3avmDIiPwfXqPqLqzxUvlXEQu1CoBILiQDE/edit?usp=sharing
-
-## Final Report File Below!
-[NMF_final Python Notebook](https://github.com/Anderson-Lab/final-project-nmf_allstars/blob/master/NMF_final.ipynb)
 
 ## Final Slides -> google link
 ### Griffin
